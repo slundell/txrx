@@ -1,6 +1,8 @@
 # txrx
 Remote control for auxillary equipment on RC cars
 
+<img src="doc/models/winch_control_v10.png" height="400">
+
 The remote controller for our SCX10II Cherokee has one extra channel. We wanted to add remote controlled led ramp, head lights and a winch. 
 
 This uses two Wemos D1 Mini in ESP-now mode to send commands directly from the sender to the receiver. 
